@@ -23,6 +23,8 @@ Sunnyside landing page from Frontend Mentor
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
+- Interact with responsive menu
+- See hover transform
 
 ### Screenshot
 
@@ -42,6 +44,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- Vanilla JavaScipt
 
 
 ### What I learned
@@ -71,12 +74,11 @@ const proudOfThisFunc = () => {
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - CSS Grid optimization.
+- [Background Images](https://stackoverflow.com/questions/18339549/floating-div-over-an-image) - Background image optimization
 
 
 ## Author
 
 - Website - [Cody Zites](https://github.com/zitescody)
 - Frontend Mentor - [@zitescody](https://www.frontendmentor.io/profile/zitescody)
-
-
