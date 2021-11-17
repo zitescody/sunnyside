@@ -6,7 +6,6 @@ Sunnyside landing page from Frontend Mentor
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -25,15 +24,11 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - Interact with responsive menu
 - See hover transform
-
-### Screenshot
-
-
-
+- 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/zitescody/sunnyside)
+- Live Site URL: [Live Site](https://zitescody.github.io/sunnyside/)
 
 ## My process
 
